@@ -24,6 +24,54 @@
             "url": "https://api.disneyapi.dev/characters/112",
             "__v": 0
         },
+	 {
+            "_id": 455,
+	    "background":"Bambi is the titular protagonist of Disney's 1942 animated feature film of the same name. He is a white-tailed deer who was raised in the forest under the nurturing guidance and protection of his unnamed mother. As a wide-eyed and inquisitive fawn, Bambi shared much of his childhood with his best friends Thumper and Flower, a rabbit and skunk respectively. He would also become “twitterpated” with Faline, a young doe. Throughout the seasons, Bambi would face coming-of-age trials and tribulations that would prepare him to someday assume the position of The Great Prince of the Forest.",
+            "films": [
+                "Bambi (film)",
+                "Bambi II",
+                "Perri",
+                "The Rescuers",
+                "Who Framed Roger Rabbit",
+                "Mickey's Magical Christmas: Snowed in at the House of Mouse",
+                "A Goofy Movie",
+                "The Reluctant Dragon",
+                "Zootopia",
+                "Ralph Breaks the Internet",
+                "Bambi (live-action film)"
+            ],
+            "shortFilms": [
+                "No Hunting"
+            ],
+            "tvShows": [
+                "House of Mouse",
+                "A Poem Is...",
+                "Mickey Mouse (TV series)"
+            ],
+            "videoGames": [
+                "Kingdom Hearts (series)",
+                "Disney Tsum Tsum (game)",
+                "Disney Emoji Blitz",
+                "Disney Magic Kingdoms"
+            ],
+            "parkAttractions": [
+                "It's a Small World",
+                "Fantasmic!",
+                "World of Color",
+                "Celebrate the Magic",
+                "Main Street Electrical Parade",
+                "Jingle Bell, Jingle BAM!"
+            ],
+            "allies": [],
+            "enemies": [],
+            "sourceUrl": "https://disney.fandom.com/wiki/Bambi_(character)",
+            "name": "Bambi",
+            "imageUrl": "https://static.wikia.nocookie.net/disney/images/c/ce/Profile_-_Bambi.png",
+            "createdAt": "2021-04-12T01:35:05.218Z",
+            "updatedAt": "2021-12-20T20:39:21.786Z",
+            "url": "https://api.disneyapi.dev/characters/455",
+            "__v": 0
+        },
         {
             "_id": 18,
 	    "background":"Abigail is a tall cow with brown skin and black eyes.",
@@ -43,6 +91,84 @@
             "createdAt": "2021-04-12T01:26:03.413Z",
             "updatedAt": "2021-12-20T20:39:18.032Z",
             "url": "https://api.disneyapi.dev/characters/18",
+            "__v": 0
+        },
+	{
+            "_id": 156,
+	    "background": "Aladdin was born to Cassim and Zena, citizens of the kingdom of Agrabah. Due to their struggling background, Cassim left Agrabah shortly after Aladdin was born in hopes of finding a better way to provide for his family. Due to this, Aladdin never met or knew his father, believing he was dead and was given a dagger as his only memento. A few years later, Aladdin's mother passed away, leaving him an orphan and forcing him to fend for himself."
+            "films": [
+                "Aladdin (film)",
+                "The Return of Jafar",
+                "Aladdin and the King of Thieves",
+                "Mickey's Magical Christmas: Snowed in at the House of Mouse",
+                "Mickey's House of Villains",
+                "The Lion King 1½",
+                "Once Upon a Halloween",
+                "Descendants 2",
+                "Aladdin (2019 film)",
+                "Aladdin 2 (live-action film)"
+            ],
+            "shortFilms": [],
+            "tvShows": [
+                "Aladdin (TV series)",
+                "Hercules (TV series)",
+                "House of Mouse",
+                "A Poem Is...",
+                "Once Upon a Time"
+            ],
+            "videoGames": [
+                "Aladdin (video game)",
+                "Disney's Aladdin Chess Adventures",
+                "Aladdin Magic Carpet Racing",
+                "Disney's MathQuest With Aladdin",
+                "Disney's ReadingQuest With Aladdin",
+                "Disney's Aladdin in Nasira's Revenge",
+                "Kingdom Hearts (series)",
+                "Disney Universe",
+                "Kinect Disneyland Adventures",
+                "Epic Mickey: Power of Illusion",
+                "Disney Magical World",
+                "Hidden Worlds",
+                "Disney Infinity (series)",
+                "Disney Villains Challenge",
+                "Disney Tsum Tsum (game)",
+                "Disney Crossy Road",
+                "Disney Emoji Blitz",
+                "Disney Magical Dice",
+                "Disney Magic Kingdoms",
+                "Disney Heroes: Battle Mode",
+                "Disney Getaway Blast",
+                "Disney Princess Majestic Quest",
+                "Disney Sorcerer's Arena",
+                "w:c:justdance:Just Dance 2014",
+                "w:c:justdance:Just Dance Now",
+                "w:c:justdance:Just Dance Unlimited"
+            ],
+            "parkAttractions": [
+                "Mickey's PhilharMagic",
+                "Mickey's Soundsational Parade",
+                "It's a Small World",
+                "World of Color",
+                "Fantasmic!",
+                "Mickey's Boo-to-You Halloween Parade",
+                "Mickey's Once Upon a Christmastime Parade",
+                "Aladdin's Royal Caravan",
+                "A Christmas Fantasy Parade",
+                "Mickey and the Wondrous Book",
+                "Golden Fairytale Fanfare",
+                "Voyage to the Crystal Grotto",
+                "Happily Ever After (fireworks show)",
+                "Wishes",
+                "Remember... Dreams Come True"
+            ],
+            "allies": [],
+            "enemies": [],
+            "sourceUrl": "https://disney.fandom.com/wiki/Aladdin_(character)",
+            "name": "Aladdin",
+            "imageUrl": "https://static.wikia.nocookie.net/disney/images/b/bb/Profile_-_Aladdin.png",
+            "createdAt": "2021-04-12T01:31:57.819Z",
+            "updatedAt": "2021-12-20T20:39:18.877Z",
+            "url": "https://api.disneyapi.dev/characters/156",
             "__v": 0
         },
         {
@@ -1065,4 +1191,4 @@
             "__v": 0
         }
     ]
-}}
+}
